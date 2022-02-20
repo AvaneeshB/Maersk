@@ -23,6 +23,6 @@ Hint: Can use any excel library (eg. Apache POI)<br>
         <li>Delete files in output folder if present</li>
         <li>Finally run the "mergin.java" file</li></ul>
         <b>RESULT:</b><br>
-    <We will see new files (like: file1-file3.xlsx) created in the "Output" directory>
+    We will see new files (like: file1-file3.xlsx) created in the "Output" directory
 </h4>
 
