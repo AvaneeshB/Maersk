@@ -21,7 +21,7 @@ Hint: Can use any excel library (eg. Apache POI)<br>
         <li>Clone the project and extract the files to run a new java project in any IDE (Eg: Eclipse)</li>
         <li>Download Apache POI jar file Zip and then finally add all the jars (except Auxiliary jars) to the java project</li>
         <li>Delete files in output folder if present</li>
-        <li>Finally run the "mergin.java" file</li></ul>
+        <li>Finally run the "merging.java" file</li></ul>
         <b>RESULT:</b><br>
     We will see new files (like: file1-file3.xlsx) created in the "Output" directory
 </h4>
