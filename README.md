@@ -2,7 +2,7 @@
 Problem Statement<br>
 -----------------<br>
 
-Create a project in java to<br>
+Create a java project to<br>
 
 1. Write java program to :<br>
     a. Scan 'input' directory and merge the files which are having similar column structure <br>
